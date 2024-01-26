@@ -8,9 +8,18 @@
 
 ## Contact Me
 - Email: babic.dominik13@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dominik-babi%C4%87-b98961206/
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
 Feel free to contact me if you have any questions or would like to collaborate on a project!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babe1304&show_icons=true&theme=cobalt&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babe1304&layout=compact&hide=purebasic&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babe1304&hide=purebasic&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
