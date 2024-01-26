@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/dominik-babi%C4%87-b98961206/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="25" alt="linkedin logo"  />
     </a>
-    <a href="https://www.facebook.com/dominik.babic.1304/">
+    <a href="https://www.facebook.com/babidominik/">
         <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" height="25" alt="facebook logo"  />
     </a>
     <a href="https://discord.gg/">
