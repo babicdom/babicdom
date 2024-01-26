@@ -9,10 +9,16 @@
 ## Contact Me
 - Email: babic.dominik13@gmail.com
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<div align="left">
+    <a href="https://www.linkedin.com/in/dominik-babi%C4%87-b98961206/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="25" alt="linkedin logo"  />
+    </a>
+    <a href="https://www.facebook.com/dominik.babic.1304/">
+        <img src="https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" height="25" alt="facebook logo"  />
+    </a>
+    <a href="https://discord.gg/">
+        <img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" height="25" alt="discord logo"  />
+    </a>
 </div>
 
 Feel free to contact me if you have any questions or would like to collaborate on a project!
