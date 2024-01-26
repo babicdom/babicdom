@@ -13,4 +13,4 @@
 Feel free to contact me if you have any questions or would like to collaborate on a project!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babe1304&show_icons=true&theme=cobalt&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babe1304&layout=donut&hide=purebasic,jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babe1304&layout=donut&hide=purebasic,jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
