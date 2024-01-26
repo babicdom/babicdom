@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="25" alt="linkedin logo"  />
     </a>
     <a href="https://www.facebook.com/dominik.babic.1304/">
-        <img src="https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" height="25" alt="facebook logo"  />
+        <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" height="25" alt="facebook logo"  />
     </a>
     <a href="https://discord.gg/">
         <img src="https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" height="25" alt="discord logo"  />
@@ -25,7 +25,3 @@ Feel free to contact me if you have any questions or would like to collaborate o
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babe1304&show_icons=true&theme=cobalt&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babe1304&hide=purebasic&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
