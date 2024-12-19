@@ -1,7 +1,7 @@
 # Hello world! 
 
 ## About Me
-- Fourth-year student at the Faculty of Engineering and Computer Science, the University of Zagreb studying Computer Science with a focus on Data Science and ML/DL.
+- Fifth-year student at the Faculty of Engineering and Computer Science, the University of Zagreb and KTH Royal Institute of Technology studying Computer Science with a focus on Data Science and ML/DL.
 - I enjoy the statistical and mathematical aspects of Data Science and Machine Learning, and I am always looking for new ways to learn more about every possible way to improve my skills in this field. 🤓
 - I am currently working on my Masters's thesis about the application of Machine Learning in Computer Vision. 🤖
 - My biggest kryptonite and enemy is Web Development, but I am working on that relationship. 💻
