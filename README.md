@@ -2,8 +2,8 @@
 
 ## About Me
 - Fifth-year student at the Faculty of Engineering and Computer Science, the University of Zagreb and KTH Royal Institute of Technology studying Computer Science with a focus on Data Science and ML/DL.
+- Currently working as an Associate Researcher at the [Visual Recognition Group](https://vrg.fel.cvut.cz/) at the Czech Technical University in Prague, where I am involved in research as a part of my Master's thesis on the methods for detecting Synthetic Images and their applications in the field of Computer Vision. 🧠
 - I enjoy the statistical and mathematical aspects of Data Science and Machine Learning, and I am always looking for new ways to learn more about every possible way to improve my skills in this field. 🤓
-- I am currently working on my Masters's thesis about the application of Machine Learning in Computer Vision. 🤖
 - My biggest kryptonite and enemy is Web Development, but I am working on that relationship. 💻
 
 ## Contact Me
@@ -23,5 +23,5 @@
 
 Feel free to contact me if you have any questions or would like to collaborate on a project!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babe1304&show_icons=true&theme=cobalt&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babe1304&hide=purebasic&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babicdom&show_icons=true&theme=cobalt&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babicdom&hide=purebasic&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
